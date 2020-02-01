@@ -4,3 +4,9 @@
 [submodule ".\\angular-8-jwt-authentication-example\\"]
 	path = .\\angular-8-jwt-authentication-example\\
 	url = https://github.com/AnujAgrawal30/Angular-JWT-Example
+[submodule "Django-JWT-Example"]
+	path = Django-JWT-Example
+	url = https://github.com/AnujAgrawal30/Django-JWT-Example
+[submodule "Angular-JWT-Example"]
+	path = Angular-JWT-Example
+	url = https://github.com/AnujAgrawal30/Angular-JWT-Example
