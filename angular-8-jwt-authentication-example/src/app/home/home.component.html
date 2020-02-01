@@ -1,0 +1,7 @@
+﻿<div id="chatDisplay">
+    <textarea cols="100" rows="20" readonly>{{messages}}</textarea>
+  </div>
+  <div id="chatInput">
+    <input type="text" class="box" #box (keyup.enter)="sendMsg(box.value)">
+    <button (click)="sendMsg(box.value)">Send Message</button>
+  </div>

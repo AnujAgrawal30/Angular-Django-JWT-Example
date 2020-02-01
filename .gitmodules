@@ -1,0 +1,6 @@
+[submodule ".\\mysite\\"]
+	path = .\\mysite\\
+	url = https://github.com/AnujAgrawal30/Django-JWT-Example
+[submodule ".\\angular-8-jwt-authentication-example\\"]
+	path = .\\angular-8-jwt-authentication-example\\
+	url = https://github.com/AnujAgrawal30/Angular-JWT-Example
