@@ -1,5 +1,4 @@
 # Angular-Django-JWT-Example
-## Mood Indigo Web and Tech CG selection assignment
 In this assignment I've used Angular 8 as front-end and Django at back-end to create a JWT (Json Web Token) authentication chat platform.
 
 I've used Angular due to the following reasons:
